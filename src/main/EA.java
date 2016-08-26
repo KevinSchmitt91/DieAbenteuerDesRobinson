@@ -15,9 +15,4 @@ public class EA {
         Scanner sc = new Scanner(System.in);
         return sc.nextInt();
     }
-
-    public static Charaktertafel.Beruf auswahlTreffen(){
-
-    }
-
 }

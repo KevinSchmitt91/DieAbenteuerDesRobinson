@@ -15,8 +15,8 @@ public class Soldat implements Beruf {
      * erstellt einen Soldat (setzt die Eigenschaften)
      */
     public Soldat(){
-        this.typ = "Koch";
-        this.verwundungen = 10;
+        this.typ = "Soldat";
+        this.verwundungen = 15;
     }
 
     /**

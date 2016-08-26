@@ -16,7 +16,7 @@ public class Kontroller {
      * hier wird ein neues Spiel initialisiert
      */
     public static void initialisierenDesSpiels() {
-        this.spieler1 = new Charaktertafel();
+       // this.spieler1 = new Charaktertafel();
     }
 
 }
